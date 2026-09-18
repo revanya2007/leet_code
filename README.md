@@ -9,4 +9,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0238-product-of-array-except-self](https://github.com/revanya2007/leet_code/tree/master/0238-product-of-array-except-self) |
+## Linked List
+|  |
+| ------- |
+| [0876-middle-of-the-linked-list](https://github.com/revanya2007/leet_code/tree/master/0876-middle-of-the-linked-list) |
+## Two Pointers
+|  |
+| ------- |
+| [0876-middle-of-the-linked-list](https://github.com/revanya2007/leet_code/tree/master/0876-middle-of-the-linked-list) |
 <!---LeetCode Topics End-->
